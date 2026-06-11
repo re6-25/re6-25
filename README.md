@@ -37,14 +37,23 @@
 * **التقنيات:** `Flutter`, `Dart`, `Hive`, `Provider`
 * **المميزات:** رسوم بيانية تفاعلية، استخراج تقارير PDF، حفظ الفواتير، تنبيهات دورية.
 
-### 3. 🏛️ مشروع مسند (Musnad)
+### 3. 🎨 [إضافة بحث بصري للأليستريتور (Illustrator Visual Search Plugin)](https://github.com/re6-25/Illustrator-Visual-Search-Plugin)
+إضافة (Plugin) مخصصة لبرنامج Adobe Illustrator تعتمد على الذكاء الاصطناعي للبحث البصري الذكي داخل بيئة التصميم.
+
+### 4. 🏛️ [مشروع مسند (Musnad)](https://github.com/re6-25/MUSNAD-yemen)
 مشروع يهدف إلى التوثيق المعرفي والتراثي ويدعم التعرف الضوئي (OCR) والقراءة، مع تطبيقات ويب وهواتف ذكية متصلة بقواعد بيانات متقدمة (RAG Architecture).
 
-### 4. 🏥 نظام إدارة العيادات (Clinic Management System)
+### 5. 🏥 [نظام إدارة العيادات (Clinic Management System)](https://github.com/re6-25/Clinic-Management-System-VB.NET)
 نظام متكامل مبني بلغة VB.NET لإدارة العيادات، ملفات المرضى، التقارير الطبية، المختبرات وشؤون الموظفين بطريقة سلسة وموثوقة.
 
-### 5. 🛡️ مكتشف البرمجيات الخبيثة (Malware Detector)
+### 6. 🛡️ [مكتشف البرمجيات الخبيثة (Deepfake Malware Detector)](https://github.com/re6-25/Deepfake-Malware-Detector)
 نظام مبني على تقنيات الذكاء الاصطناعي لفحص وتحليل الروابط واكتشاف البرمجيات الخبيثة والتزييف العميق (Deepfake) باستخدام واجهات Gradio.
+
+### 7. 📚 [موقع المكتبة الإلكترونية (Book Library)](https://github.com/re6-25/book)
+واجهة موقع ويب مخصصة لعرض وإدارة الكتب الإلكترونية بتصميم بسيط باستخدام HTML/CSS.
+
+### 8. 💻 [مشاريع هندسة البرمجيات (Software Engineering Projects)](https://github.com/re6-25/softengreemalwaeel)
+مستودع يضم تطبيقات برمجية وتجارب باستخدام لغة Python كجزء من تطوير مهارات هندسة البرمجيات.
 
 ---
 
