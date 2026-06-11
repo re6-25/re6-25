@@ -1,77 +1,162 @@
 <h1 align="center">مرحباً بك في ملفي الشخصي 👋</h1>
 
-<h3 align="center">أنا المهندسة / ريم طاهر محمد الوعيل 👩‍💻</h3>
+<h3 align="center">م. ريم طاهر محمد الوعيل</h3>
 
 <p align="center">
-  مرحباً بك في مساحتي الخاصة على GitHub! أنا مهندسة برمجيات ومطورة تطبيقات ومواقع إلكترونية، شغوفة ببناء أنظمة متكاملة وواجهات مستخدم احترافية وتطبيقات الهواتف الذكية. أسعى دائماً لتحويل الأفكار المعقدة إلى حلول تقنية ذكية وتجارب استخدام سلسة.
+مهندسة برمجيات متخصصة في الذكاء الاصطناعي والرؤية الحاسوبية وتطوير تطبيقات الهواتف الذكية. أمتلك خبرة في بناء الأنظمة البرمجية المتكاملة، وتطوير حلول تعتمد على التعلم العميق ومعالجة الصور والتعرف الضوئي على النصوص (OCR)، بالإضافة إلى تصميم وتطوير تطبيقات Flutter ومنصات الويب الحديثة.
 </p>
 
 ---
 
-## 🛠️ التقنيات والمهارات (Tech Stack)
+## 🚀 المهارات والتقنيات
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-AI-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-673AB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
 ---
 
-## 🚀 أبرز أعمالي ومشاريعي (Portfolio)
+# 🌟 أبرز المشاريع
 
-إليك مجموعة من أبرز المشاريع التي قمت بتطويرها:
+## 🎨 أداة البحث البصري لبرنامج Illustrator
+### [Illustrator Visual Search Plugin](https://github.com/re6-25/Illustrator-Visual-Search-Plugin)
 
-### 1. 🎓 [منصة وريف (Wareef Platform)](https://github.com/re6-25/wareef1)
-منصة تفاعلية متكاملة لإدارة الدورات التدريبية، المشاريع، والحقائب التدريبية.
-* **التقنيات:** `Python`, `Django`, `HTML/CSS`, `SQLite`
-* **المميزات:** لوحة تحكم إدارية متكاملة، نظام تسجيل الدخول، تقييمات، مشاريع وإشعارات.
+إضافة احترافية لبرنامج Adobe Illustrator تعتمد على الذكاء الاصطناعي للبحث عن الصور المتشابهة بصريًا وإدراجها مباشرة داخل بيئة التصميم.
 
-### 2. 💰 [الميزانية الذكية (Smart Budget)](https://github.com/re6-25/smart_budget)
-تطبيق احترافي للهواتف الذكية لإدارة الميزانية الشخصية وتتبع المصروفات والإيرادات.
-* **التقنيات:** `Flutter`, `Dart`, `Hive`, `Provider`
-* **المميزات:** رسوم بيانية تفاعلية، استخراج تقارير PDF، حفظ الفواتير، تنبيهات دورية.
-
-### 3. 🎨 [إضافة بحث بصري للأليستريتور (Illustrator Visual Search Plugin)](https://github.com/re6-25/Illustrator-Visual-Search-Plugin)
-إضافة (Plugin) مخصصة لبرنامج Adobe Illustrator تعتمد على الذكاء الاصطناعي للبحث البصري الذكي داخل بيئة التصميم.
-
-### 4. 🏛️ [مشروع مسند (Musnad)](https://github.com/re6-25/MUSNAD-yemen)
-مشروع يهدف إلى التوثيق المعرفي والتراثي ويدعم التعرف الضوئي (OCR) والقراءة، مع تطبيقات ويب وهواتف ذكية متصلة بقواعد بيانات متقدمة (RAG Architecture).
-
-### 5. 🏥 [نظام إدارة العيادات (Clinic Management System)](https://github.com/re6-25/Clinic-Management-System-VB.NET)
-نظام متكامل مبني بلغة VB.NET لإدارة العيادات، ملفات المرضى، التقارير الطبية، المختبرات وشؤون الموظفين بطريقة سلسة وموثوقة.
-
-### 6. 🛡️ [مكتشف البرمجيات الخبيثة (Deepfake Malware Detector)](https://github.com/re6-25/Deepfake-Malware-Detector)
-نظام مبني على تقنيات الذكاء الاصطناعي لفحص وتحليل الروابط واكتشاف البرمجيات الخبيثة والتزييف العميق (Deepfake) باستخدام واجهات Gradio.
-
-### 7. 📚 [موقع المكتبة الإلكترونية (Book Library)](https://github.com/re6-25/book)
-واجهة موقع ويب مخصصة لعرض وإدارة الكتب الإلكترونية بتصميم بسيط باستخدام HTML/CSS.
-
-### 8. 💻 [مشاريع هندسة البرمجيات (Software Engineering Projects)](https://github.com/re6-25/softengreemalwaeel)
-مستودع يضم تطبيقات برمجية وتجارب باستخدام لغة Python كجزء من تطوير مهارات هندسة البرمجيات.
+**التقنيات:**
+`Python` `FastAPI` `OpenCLIP` `FAISS` `SQLite` `JavaScript`
 
 ---
 
-## 📈 إحصائيات GitHub الخاصة بي
+## 🏛️ منصة الخط المسند
+
+### [Musnad Platform](https://github.com/re6-25/MUSNAD-yemen)
+
+منصة رقمية متكاملة لحفظ وتوثيق التراث اليمني القديم، تتضمن أدوات للتوثيق والترجمة والتعرف على النقوش باستخدام الذكاء الاصطناعي.
+
+**التقنيات:**
+`Django` `PostgreSQL` `PyTorch` `YOLO` `OpenCV`
+
+---
+
+## 🤖 نظام OCR للخط المسند
+
+### Musnad OCR System
+
+نظام متخصص للتعرف الضوئي على حروف الخط المسند باستخدام تقنيات الرؤية الحاسوبية والتعلم العميق.
+
+**التقنيات:**
+`YOLO` `PyTorch` `OCR` `Computer Vision`
+
+---
+
+## 🏷️ منصة التوسيم الذكية
+
+### Musnad Annotation Platform
+
+منصة مخصصة لإنشاء ومراجعة بيانات التدريب الخاصة بالخط المسند وتحسين جودة البيانات المستخدمة لتدريب النماذج الذكية.
+
+**التقنيات:**
+`Flask` `Python` `JavaScript`
+
+---
+
+## 📱 تطبيق الميزانية الذكية
+
+### [Smart Budget](https://github.com/re6-25/smart_budget)
+
+تطبيق لإدارة المصروفات والإيرادات الشخصية مع رسوم بيانية وتقارير مالية متقدمة.
+
+**التقنيات:**
+`Flutter` `Dart` `Hive` `Provider`
+
+---
+
+## 🎓 منصة وريف
+
+### [Wareef Platform](https://github.com/re6-25/wareef1)
+
+منصة تعليمية متكاملة لإدارة الدورات التدريبية والمشاريع والحقائب التدريبية.
+
+**التقنيات:**
+`Python` `Django` `HTML` `CSS`
+
+---
+
+## 🏥 نظام إدارة العيادات
+
+### [Clinic Management System](https://github.com/re6-25/Clinic-Management-System-VB.NET)
+
+نظام مكتبي متكامل لإدارة المرضى والأطباء والمختبرات والتقارير الطبية.
+
+**التقنيات:**
+`VB.NET` `Microsoft Access`
+
+---
+
+## 🛡️ نظام كشف الروابط الخبيثة
+
+### [Deepfake Malware Detector](https://github.com/re6-25/Deepfake-Malware-Detector)
+
+مشروع يعتمد على الذكاء الاصطناعي لتحليل الروابط واكتشاف البرمجيات الخبيثة والأنشطة المشبوهة.
+
+**التقنيات:**
+`Python` `Machine Learning` `Gradio`
+
+---
+
+## 📚 المكتبة الإلكترونية
+
+### [Book Library](https://github.com/re6-25/book)
+
+واجهة ويب لعرض وإدارة الكتب الإلكترونية.
+
+**التقنيات:**
+`HTML` `CSS`
+
+---
+
+## 📈 إحصائيات GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=re6-25&show_icons=true&theme=radium&locale=ar" alt="إحصائيات ريم" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=re6-25&theme=radium&locale=ar" alt="سجل النشاط" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=re6-25&show_icons=true&theme=radical" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=re6-25&theme=radical" height="170"/>
+
 </div>
 
 ---
 
-## 📬 للتواصل معي (Contact Me)
+## 📬 التواصل
 
-أسعد دائماً بالنقاشات البرمجية والتعاون في مشاريع جديدة!
-- 📧 الإيميل: `reemalwaeel40@gmail.com`
-- 💻 GitHub: [@re6-25](https://github.com/re6-25)
+📧 البريد الإلكتروني:
 
-<p align="center">
-  <i>"كتابة الكود ليست مجرد مهنة، بل هي شغف لتحويل الخيال إلى واقع يخدم المجتمع"</i> ✨
-</p>
+**eng.reem.alwaeel@gmail.com**
+
+🔗 GitHub:
+
+https://github.com/re6-25
+
+---
+
+<div align="center">
+
+### ✨ "التقنية ليست مجرد أدوات، بل وسيلة لتحويل الأفكار إلى أثر حقيقي."
+
+</div>
