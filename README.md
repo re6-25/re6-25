@@ -7,7 +7,7 @@ University of Ibb – Faculty of Computing and Information Technology
 </p>
 
 <p align="center">
-Software Engineer • AI Developer • Computer Vision Developer
+Software Engineer | AI Developer | Computer Vision Developer
 </p>
 
 <p align="center">
@@ -16,191 +16,165 @@ Software Engineer • AI Developer • Computer Vision Developer
 جامعة إب – كلية الحاسبات وتقنية المعلومات
 </p>
 
-<p align="center">
-🥈 Second Place Winner – Graduation Projects Competition
-</p>
+---
+
+## About Me | نبذة عني
+
+Software Engineering graduate with experience in Artificial Intelligence, Computer Vision, OCR Systems, Mobile Application Development, Backend Development, and Intelligent Software Solutions.
+
+Developed more than 20 academic and professional projects, including AI-powered OCR systems, digital heritage platforms, mobile applications, web systems, and computer vision solutions.
+
+مهندسة برمجيات حديثة التخرج تمتلك خبرة في الذكاء الاصطناعي والرؤية الحاسوبية وأنظمة التعرف الضوئي على النصوص وتطوير تطبيقات الهواتف الذكية وأنظمة الويب. عملت على أكثر من 20 مشروعًا أكاديميًا واحترافيًا في مجالات متنوعة تشمل الذكاء الاصطناعي وتطبيقات الجوال وأنظمة الويب وحلول التراث الرقمي.
 
 ---
 
-## 👩‍💻 About Me
+## Education | التعليم
 
-Software Engineering graduate with experience in Artificial Intelligence, Computer Vision, OCR Systems, Mobile Development, Backend Development, and Intelligent Software Solutions.
+**University of Ibb**  
+Faculty of Computing and Information Technology
 
-I have developed 20+ projects across AI, Computer Vision, OCR Research, Mobile Applications, Web Systems, and Digital Heritage Technologies.
+**Bachelor's Degree in Information Technology & Computer Science**  
+Software Engineering
 
-My work focuses on building practical software solutions, intelligent systems, and technologies that contribute to preserving knowledge and cultural heritage.
-
----
-
-## 🏆 Achievements
-
-- 🥈 Second Place Winner – Graduation Projects Competition.
-- 🎓 Bachelor's Degree in Information Technology & Computer Science – Software Engineering.
-- 📄 Participation in Academic Research Activities.
-- 🤖 Developed AI-powered OCR and Computer Vision systems for Ancient Musnad Script.
-- 🏛️ Contributed to digital preservation of Yemeni heritage through technology.
-- 🚀 Developed 20+ academic and professional projects.
-- 💻 Built Mobile, Web, Desktop, AI, and Computer Vision applications.
+**Graduation Year:** 2026
 
 ---
 
-## 🚀 Technical Skills
+## Achievements | الإنجازات
+
+- Second Place Winner – Graduation Projects Competition.
+- Participation in Academic Research Activities.
+- Development of AI-powered OCR systems for Ancient Musnad Script.
+- Contribution to digital preservation of Yemeni heritage.
+- Development of 20+ projects in Software Engineering, Artificial Intelligence, and Mobile Applications.
+
+---
+
+## Technical Skills | المهارات التقنية
 
 ### Programming Languages
-`Python` `Dart` `JavaScript` `PHP` `C#` `SQL` `HTML` `CSS`
+Python • Dart • JavaScript • PHP • C# • SQL • HTML • CSS
 
 ### Mobile Development
-`Flutter` `Firebase` `SQLite` `Hive`
-`Provider`
-`Shared Preferences`
+Flutter • Firebase • SQLite • Hive • Provider • Shared Preferences
 
 ### Artificial Intelligence & Computer Vision
-`PyTorch`
-`OpenCV`
-`YOLOv8`
-`YOLOv10`
-`YOLOv11`
-`OCR`
-`GLM-OCR`
-`TrOCR`
-`PaddleOCR`
-`Machine Learning`
-`Deep Learning`
-`Computer Vision`
-`Object Detection`
-`Dataset Generation`
-`Dataset Annotation`
-`LoRA Fine-Tuning`
-`RAG Systems`
+PyTorch • OpenCV • YOLOv8 • YOLOv10 • YOLOv11
+
+OCR • GLM-OCR • TrOCR • PaddleOCR
+
+Machine Learning • Deep Learning • Computer Vision • Object Detection
+
+Dataset Generation • Dataset Annotation • LoRA Fine-Tuning • RAG Systems
 
 ### Backend Development
-`FastAPI`
-`Django`
-`Flask`
-`REST API`
-`PostgreSQL`
-`SQLite`
+FastAPI • Django • Flask • REST API • PostgreSQL • SQLite
 
-### Other Technologies
-`OpenCLIP`
-`FAISS`
-`Docker`
-`Git`
-`GitHub`
-`Android Studio`
-`VS Code`
-`Google Cloud`
-`Postman`
-`Web Scraping`
+### Tools & Platforms
+Git • GitHub • Docker • Android Studio • VS Code • Google Cloud • Postman • OpenCLIP • FAISS • Web Scraping
 
 ---
 
-## 🔬 Research Experience
+## Research Experience | الخبرة البحثية
 
 ### Musnad OCR Research Project
 
-Developed an end-to-end OCR ecosystem for the Ancient Musnad script using Deep Learning and Computer Vision technologies.
+Research and development of an end-to-end OCR ecosystem for Ancient Musnad inscriptions using Deep Learning and Computer Vision technologies.
 
-**Key Contributions**
+Key Contributions:
 
 - Dataset creation and annotation.
 - Synthetic data generation.
 - OCR model development.
 - Object detection model training.
-- Annotation and review platform development.
+- Annotation platform development.
 - OCR evaluation and optimization.
 - AI-assisted heritage preservation tools.
 
 ---
 
-## 🏅 Graduation Project
+## Graduation Project | مشروع التخرج
 
 ### Musnad OCR & Digital Heritage Platform
 
-An integrated Artificial Intelligence platform designed for preserving, documenting, and digitizing Ancient Musnad inscriptions.
+An integrated platform for preserving, documenting, and digitizing Ancient Musnad inscriptions using Artificial Intelligence technologies.
 
-**Project Components**
+Components:
 
 - Musnad OCR System
 - Musnad Annotation Platform
 - Digital Heritage Platform
-- AI-Assisted Translation Workflow
 - Smart Archive System
+- AI-Assisted Translation Workflow
 
-**Technologies**
+Technologies:
 
-`Python` `PyTorch` `YOLO` `OCR` `FastAPI` `SQLite` `Docker`
+Python • PyTorch • YOLO • OCR • FastAPI • SQLite • Docker
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects | المشاريع المميزة
 
-### 🎨 Illustrator Visual Search Plugin
+### Illustrator Visual Search Plugin
 
 AI-powered Adobe Illustrator extension that enables designers to search and insert visually similar images directly inside Illustrator.
 
-**Technologies:** OpenCLIP • FAISS • FastAPI • SQLite • CEP Extension
-
-🔗 https://github.com/re6-25/Illustrator-Visual-Search-Plugin
-
----
-
-### 🏛️ Musnad Platform
-
-Digital platform dedicated to documenting, preserving, and studying the ancient Musnad script and Yemeni heritage.
-
-🔗 https://github.com/re6-25/MUSNAD-yemen
+**Repository:**  
+https://github.com/re6-25/Illustrator-Visual-Search-Plugin
 
 ---
 
-### 🤖 Musnad OCR System
+### Musnad Platform
 
-OCR system developed to recognize Musnad characters using Deep Learning and Computer Vision technologies.
+Digital platform dedicated to documenting and preserving Ancient Musnad inscriptions and Yemeni heritage.
 
-🔗 https://github.com/re6-25/Musnad-OCR-System
-
----
-
-### 🏷️ Musnad Annotation Platform
-
-Annotation and dataset management platform developed for building and reviewing Musnad OCR datasets.
-
-🔗 https://github.com/re6-25/Musnad-Annotation-Platform
+**Repository:**  
+https://github.com/re6-25/MUSNAD-yemen
 
 ---
 
-### 📱 Smart Budget
+### Musnad OCR System
 
-Personal finance management application for expense tracking and financial planning.
+OCR system developed to recognize Ancient Musnad characters using Deep Learning and Computer Vision technologies.
 
-🔗 https://github.com/re6-25/smart_budget
-
----
-
-### 🎓 Wareef Platform
-
-Educational platform for managing courses, training programs, projects, and academic content.
-
-🔗 https://github.com/re6-25/wareef1
+**Repository:**  
+https://github.com/re6-25/Musnad-OCR-System
 
 ---
 
-### 📱 Rafiq Al-Iman
+### Musnad Annotation Platform
 
-Islamic mobile application developed using Flutter.
+Platform for creating, reviewing, and managing OCR datasets.
 
----
-
-### 🏛️ Turath Yemen
-
-Digital platform dedicated to preserving and presenting Yemeni heritage through technology.
+**Repository:**  
+https://github.com/re6-25/Musnad-Annotation-Platform
 
 ---
 
-## 📂 Additional Projects
+### Smart Budget
 
-- Nasaq Mobile Application
-- Clinic Management System (VB.NET)
+Personal finance management application.
+
+**Repository:**  
+https://github.com/re6-25/smart_budget
+
+---
+
+### Wareef Platform
+
+Educational platform for managing academic and training content.
+
+**Repository:**  
+https://github.com/re6-25/wareef1
+
+---
+
+### Additional Projects | مشاريع أخرى
+
+- Rafiq Al-Iman
+- Turath Yemen
+- Nasaq
+- Clinic Management System
 - Book Library System
 - Phishing Detection Using RNN
 - CNN Image Classification
@@ -209,56 +183,18 @@ Digital platform dedicated to preserving and presenting Yemeni heritage through 
 - Networking Projects
 - Database Systems Projects
 - Computer Graphics Projects
-- Data Structures & Algorithms Projects
-- OCR Research Tools
-- AI Research Prototypes
 
 ---
 
-## 🤝 Graduation Project Team
-
-### Team Members
-
-- Eng. Reem Taher Mohammed Alwaeel
-- Eng. Alzahraa Khaled Alsabahi
-
-### Supervision
-
-- Dr. Akram Al-Sabari
-- Eng. Qusurah Al-Mohammadi
-
----
-
-## 🌍 Languages
+## Languages | اللغات
 
 - Arabic (Native)
 - English (Professional Working Proficiency)
 
 ---
 
-## 📊 GitHub Statistics
+## Contact | التواصل
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=re6-25&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=re6-25&layout=compact&theme=tokyonight"/>
-</p>
+Email: **eng.reem.alwaeel@gmail.com**
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=re6-25&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Contact
-
-📧 Email: **eng.reem.alwaeel@gmail.com**
-
-🔗 GitHub: **https://github.com/re6-25**
-
----
-
-<p align="center">
-<b>Building intelligent software that transforms ideas into practical solutions.</b>
-<br>
-<b>تطوير حلول برمجية ذكية تحول الأفكار إلى واقع.</b>
-</p>
+GitHub: **https://github.com/re6-25**
