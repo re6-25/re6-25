@@ -58,7 +58,6 @@ Graduation Year: 2026
 
 ## Achievements | الإنجازات
 
-- 🏆 Second Place Winner – Graduation Projects Competition
 - 🤖 Developed AI-powered OCR systems
 - 🏛️ Contributed to Digital Heritage Preservation Projects
 - 📚 Built OCR datasets containing 200,000+ annotated Musnad characters
@@ -227,20 +226,7 @@ https://github.com/re6-25/wareef1
 - Networking Projects
 - Academic Software Projects
 
----
-
-## Graduation Project Team | فريق مشروع التخرج
-
-### Team Members
-
-- Eng. Reem Taher Mohammed Alwaeel
-- Eng. Alzahraa Khaled Alsabahi
-
-### Supervision
-
-- Dr. Akram Al-Sabari
-- Eng. Qusurah Al-Mohammadi
-
+\
 ---
 
 ## Languages | اللغات
