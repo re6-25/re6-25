@@ -156,12 +156,14 @@ An integrated Artificial Intelligence platform designed for preserving, document
 `Docker`
 
 ---
-
 ## Projects | المشاريع
 
 ### Illustrator Visual Search Plugin
 
 AI-powered Adobe Illustrator extension for searching and inserting visually similar images directly inside Illustrator.
+
+Repository:
+https://github.com/re6-25/Illustrator-Visual-Search-Plugin
 
 ---
 
@@ -169,11 +171,17 @@ AI-powered Adobe Illustrator extension for searching and inserting visually simi
 
 Digital platform dedicated to documenting, preserving, and studying Ancient Musnad inscriptions and Yemeni heritage.
 
+Repository:
+https://github.com/re6-25/MUSNAD-yemen
+
 ---
 
 ### Musnad OCR System
 
 OCR system developed for recognizing Ancient Musnad characters using Deep Learning and Computer Vision technologies.
+
+Repository:
+https://github.com/re6-25/Musnad-OCR-System
 
 ---
 
@@ -181,17 +189,44 @@ OCR system developed for recognizing Ancient Musnad characters using Deep Learni
 
 Platform for creating, reviewing, and managing OCR datasets and annotations.
 
+Repository:
+https://github.com/re6-25/Musnad-Annotation-Platform
+
 ---
 
 ### Smart Budget
 
 Personal finance and expense management application developed using Flutter.
 
+Repository:
+https://github.com/re6-25/smart_budget
+
 ---
 
 ### Wareef Platform
 
 Educational platform for managing courses, training programs, projects, and academic content.
+
+Repository:
+https://github.com/re6-25/wareef1
+
+---
+
+### Clinic Management System
+
+Desktop-based clinic management system for handling patients, doctors, laboratories, and medical reports.
+
+Repository:
+https://github.com/re6-25/Clinic-Management-System-VB.NET
+
+---
+
+### Book Library
+
+Web-based electronic library system for displaying and managing books.
+
+Repository:
+https://github.com/re6-25/book
 
 ---
 
@@ -210,18 +245,6 @@ Digital platform dedicated to preserving and presenting Yemeni heritage through 
 ### Nasaq
 
 Productivity and task management application.
-
----
-
-### Clinic Management System
-
-Desktop-based clinic management system for handling patients, doctors, laboratories, and medical reports.
-
----
-
-### Book Library
-
-Web-based electronic library system.
 
 ---
 
@@ -264,8 +287,6 @@ Projects focused on database design, implementation, and management.
 ### Computer Graphics Projects
 
 Academic projects related to computer graphics and visual computing.
-
----
 
 ## Project Categories | تصنيف المشاريع
 
