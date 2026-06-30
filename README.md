@@ -45,7 +45,7 @@ Faculty of Computing and Information Technology
 
 Bachelor's Degree in Information Technology & Computer Science
 
-Graduation Year: 2026
+
 
 ### جامعة إب
 كلية الحاسبات وتقنية المعلومات
